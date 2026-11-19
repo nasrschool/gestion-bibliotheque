@@ -8,3 +8,5 @@ python -m bibliotheque.main
 - Recherche par titre, auteur et ISBN
 
 Prérequis : Python 3.9 ou supérieur.
+
+- Suppression d'un livre par ISBN
